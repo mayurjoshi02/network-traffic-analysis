@@ -33,7 +33,6 @@ source and destination IP addresses.
 - analyze_traffic.py: Packet analysis script
 - save_report.py: Report generation script
 - analysis_report.txt: Analysis results
-- network_traffic.pcap: Packet capture file
 
 ## Conclusion
 The project demonstrates basic network packet capture,
