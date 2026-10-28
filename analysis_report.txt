@@ -1,0 +1,20 @@
+NETWORK TRAFFIC ANALYSIS REPORT
+===================================
+Date: 2026-10-28 19:11
+Total packets analyzed: 100
+
+Protocol counts:
+TCP: 85
+DNS: 15
+
+Top source IPs:
+10.0.2.15: 49 packets
+151.101.209.91: 27 packets
+34.149.226.178: 18 packets
+172.27.167.146: 6 packets
+
+Top destination IPs:
+10.0.2.15: 51 packets
+151.101.209.91: 23 packets
+34.149.226.178: 17 packets
+172.27.167.146: 9 packets
